@@ -1,4 +1,3 @@
-import re
 import openpyxl
 from pathlib import Path
 from openpyxl import Workbook

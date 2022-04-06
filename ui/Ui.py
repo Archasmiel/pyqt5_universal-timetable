@@ -1,6 +1,3 @@
-import requests as req
-import re
-
 from PyQt5 import QtWidgets, uic, QtGui
 
 from ui import themes, tablework
